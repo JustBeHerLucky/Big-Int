@@ -1,0 +1,4 @@
+﻿  QInt.cpp
+D:\HOC\C++\Final_BigInt\Final_BigInt\Final_BigInt\QInt.cpp(637,20): warning C4018: '<': signed/unsigned mismatch
+D:\HOC\C++\Final_BigInt\Final_BigInt\Final_BigInt\QInt.cpp(657,20): warning C4018: '<': signed/unsigned mismatch
+  Final_BigInt.vcxproj -> D:\HOC\C++\Final_BigInt\Final_BigInt\Debug\Final_BigInt.exe
